@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author lukesmith
+ *
+ */
+package linearAlgebraToolKit;
